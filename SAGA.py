@@ -1,2 +1,2 @@
-import saga
-saga.random_india()
+import saga1
+saga1.error()
